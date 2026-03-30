@@ -1,20 +1,10 @@
-Here's everything you need for GitHub:
-
----
-
 **Repository Name:**
-`smart-tailoring-management-system`
-
----
+`Smart-Tailoring-Management-Platform`
 
 **Short Description (GitHub's one-liner):**
 > A Python-based tailoring shop management system with customer, tailor, and analytics portals — powered by MySQL.
 
----
-
 **README Description:**
-
----
 
 ## 🧵 Smart Tailoring Management System
 
@@ -36,14 +26,9 @@ A Python-based console application designed to digitize and streamline tailoring
 1. Set up a MySQL database named `tailoring_db`
 2. Update credentials in `get_conn()` function
 3. Install dependencies:
-   ```
    pip install mysql-connector-python pandas matplotlib
-   ```
 4. Run:
-   ```
    python IP_PROJECT_CODE.py
-   ```
 
----
 
-Just copy-paste this into your `README.md` on GitHub! Want me to also write the **Internshala project description** for this?
+
