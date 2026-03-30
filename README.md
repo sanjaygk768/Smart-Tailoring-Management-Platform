@@ -1,3 +1,18 @@
+### Description
+A Python-based console application designed to digitize and streamline tailoring shop operations. The system features three portals — Store, Tailor, and Analytics — managing the full lifecycle of a customer order.
+
+### Features
+- **Store Portal** — Place new orders, capture measurements, assign tailors, and handle trial feedback
+- **Tailor Portal** — View job cards, update order status, and manage alterations
+- **Analytics Dashboard** — Visualize revenue by item, monthly sales trends, material usage, and order status distribution
+- Auto-computes due dates based on item type
+- Handles alteration workflows and due date updates
+
+### Tech Stack
+- **Language:** Python
+- **Database:** MySQL (via `mysql-connector-python`)
+- **Libraries:** `pandas`, `matplotlib`
+
 
 import mysql.connector
 from datetime import datetime, timedelta
